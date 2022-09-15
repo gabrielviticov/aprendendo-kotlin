@@ -26,22 +26,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Kotlin.ProgramKt (4)">
+}</component>
+  <component name="RunManager" selected="Kotlin.ProgramKt (1)">
     <configuration name="ProgramKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estruturado.exercicios.ex001.ProgramKt" />
-      <module name="aprendendo-kotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ProgramKt (2)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estruturado.exercicios.ex002.ProgramKt" />
+      <option name="MAIN_CLASS_NAME" value="estruturado.exercicios.ex007.ProgramKt" />
       <module name="aprendendo-kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -61,8 +54,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ProgramKt (5)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estruturado.exercicios.ex005.ProgramKt" />
+      <module name="aprendendo-kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ProgramKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estruturado.aulas.aula001.ProgramKt" />
+      <option name="MAIN_CLASS_NAME" value="estruturado.exercicios.ex006.ProgramKt" />
       <module name="aprendendo-kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -70,11 +70,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.ProgramKt (4)" />
-        <item itemvalue="Kotlin.ProgramKt (3)" />
-        <item itemvalue="Kotlin.ProgramKt (2)" />
         <item itemvalue="Kotlin.ProgramKt (1)" />
         <item itemvalue="Kotlin.ProgramKt" />
+        <item itemvalue="Kotlin.ProgramKt (5)" />
+        <item itemvalue="Kotlin.ProgramKt (4)" />
+        <item itemvalue="Kotlin.ProgramKt (3)" />
       </list>
     </recent_temporary>
   </component>
