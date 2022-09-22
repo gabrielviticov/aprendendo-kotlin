@@ -29,40 +29,41 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.ProgramKt (1)">
-    <configuration name="ProgramKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estruturado.exercicios.ex007.ProgramKt" />
+  <component name="RunManager" selected="Kotlin.ProgramKt">
+    <configuration name="ProgramKt (2)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estruturado.exercicios.ex008.ProgramKt" />
       <module name="aprendendo-kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="ProgramKt (3)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estruturado.exercicios.ex003.ProgramKt" />
+      <option name="MAIN_CLASS_NAME" value="estruturado.exercicios.ex009.ProgramKt" />
       <module name="aprendendo-kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="ProgramKt (4)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estruturado.exercicios.ex004.ProgramKt" />
+      <option name="MAIN_CLASS_NAME" value="estruturado.exercicios.ex010.ProgramKt" />
       <module name="aprendendo-kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="ProgramKt (5)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estruturado.exercicios.ex005.ProgramKt" />
+      <option name="MAIN_CLASS_NAME" value="estruturado.exercicios.ex011.ProgramKt" />
       <module name="aprendendo-kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="ProgramKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estruturado.exercicios.ex006.ProgramKt" />
+      <option name="MAIN_CLASS_NAME" value="estruturado.exercicios.ex012.ProgramKt" />
       <module name="aprendendo-kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -70,11 +71,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.ProgramKt (1)" />
         <item itemvalue="Kotlin.ProgramKt" />
         <item itemvalue="Kotlin.ProgramKt (5)" />
         <item itemvalue="Kotlin.ProgramKt (4)" />
         <item itemvalue="Kotlin.ProgramKt (3)" />
+        <item itemvalue="Kotlin.ProgramKt (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -99,5 +100,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
