@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="87e03264-0b59-49ed-82ad-93a569cac26c" name="Changes" comment="" />
+    <list default="true" id="87e03264-0b59-49ed-82ad-93a569cac26c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,37 +35,37 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.ProgramKt">
-    <configuration name="ProgramKt (2)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estruturado.exercicios.ex008.ProgramKt" />
-      <module name="aprendendo-kotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.TesteKt">
     <configuration name="ProgramKt (3)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estruturado.exercicios.ex009.ProgramKt" />
+      <option name="MAIN_CLASS_NAME" value="estruturado.exercicios.ex015.ProgramKt" />
       <module name="aprendendo-kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="ProgramKt (4)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estruturado.exercicios.ex010.ProgramKt" />
+      <option name="MAIN_CLASS_NAME" value="estruturado.exercicios.ex016.ProgramKt" />
       <module name="aprendendo-kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="ProgramKt (5)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estruturado.exercicios.ex011.ProgramKt" />
+      <option name="MAIN_CLASS_NAME" value="estruturado.exercicios.ex017.ProgramKt" />
       <module name="aprendendo-kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="ProgramKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estruturado.exercicios.ex012.ProgramKt" />
+      <option name="MAIN_CLASS_NAME" value="estruturado.exercicios.ex018.ProgramKt" />
+      <module name="aprendendo-kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estruturado.exercicios.TesteKt" />
       <module name="aprendendo-kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -71,11 +73,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.TesteKt" />
         <item itemvalue="Kotlin.ProgramKt" />
         <item itemvalue="Kotlin.ProgramKt (5)" />
         <item itemvalue="Kotlin.ProgramKt (4)" />
         <item itemvalue="Kotlin.ProgramKt (3)" />
-        <item itemvalue="Kotlin.ProgramKt (2)" />
       </list>
     </recent_temporary>
   </component>
