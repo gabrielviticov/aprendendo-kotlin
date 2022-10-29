@@ -1,11 +1,10 @@
 package estruturado.exercicios
-
 fun main(){
-    val intArray = intArrayOf(4, 3, 2, 1)
+    var celular = Celular("Samsung Galaxy A53 5G", "Samsung", "A53 5G", 128, 1799.90, false)
 
 
-    intArray.sort()
+}
 
-// after sorting
-
+open class Celular(nome: String, fabricante: String, modelo: String, armazenamento: Int?, preco: Double, disponibilidade: Boolean){
+    
 }

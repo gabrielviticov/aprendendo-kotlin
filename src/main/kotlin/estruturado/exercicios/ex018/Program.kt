@@ -24,7 +24,7 @@ fun main(){
     print("Nome do quarto aluno: ")
     aluno4 = readlnOrNull().toString()
 
-    lista = [aluno1, aluno2, aluno3, aluno4]
-    sorted = lista.toString()
-    sorted.s
+    //lista = [aluno1, aluno2, aluno3, aluno4]
+    //sorted = lista.toString()
+    //sorted.s
 }
